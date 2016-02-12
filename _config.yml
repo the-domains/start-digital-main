@@ -1,6 +1,6 @@
 name: Start Digital Main
 favicon: null
-layout_spectrum: 0.3039536497090012
+layout_spectrum: 0.8985
 typography_spectrum: 0.05225283862091601
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.7776334707159549
-  lightness: 0.4357408327050507
-  saturation: 0.3107507189270109
-  rhythmicContrast: 0.3692557653412223
+    - '#ffffff'
+    - '#15161d'
+    - '#cd273d'
+    - '#fea15b'
+    - '#858587'
+  brandStrength: 1
+  lightness: 0.375
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
