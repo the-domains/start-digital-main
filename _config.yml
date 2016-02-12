@@ -1,7 +1,7 @@
 name: Start Digital Main
 favicon: null
-layout_spectrum: 0.8985
-typography_spectrum: 0.05225283862091601
+layout_spectrum: 0.49354
+typography_spectrum: 0.50349
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#cd273d'
     - '#fea15b'
     - '#858587'
-  brandStrength: 1
-  lightness: 0.375
-  saturation: 0
-  rhythmicContrast: 1
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
